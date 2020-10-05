@@ -1,0 +1,9 @@
+		MAC Shop
+	2020-03-09 14:12:43.787959
+
+Productos:
+Manzana 1kg........................................$20
+
+Total: 20.0
+Cantidad Pagada: 20.0
+Cambio: 0.0
